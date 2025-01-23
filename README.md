@@ -3,7 +3,7 @@
 ## Project Overview
 This project aim to provide actionable insights that will help improve sales, customer retention, operational efficiency, analyze historical data, uncover trends, and provide recommendations for strategic improvements.
 ## Dashboard
-[Image](
+![Image](![Picture2](https://github.com/user-attachments/assets/7cede43e-cffc-4f6b-b3ee-c0af01195000))
 
 
 ## Methodology
