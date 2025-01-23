@@ -5,7 +5,31 @@
 
 
 ## Methodology
-#### The analysis was conducted using Excel. 
-Data Cleaning and Preparation with Power Query
-Exploratory Data Analysis using Power Pivot
-Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashboards made it easier to communicate the results to stakeholders.
+# Employee Attrition Analysis  
+
+The analysis was conducted using Excel. The dataset contains information on various employee characteristics, including age, education, business travel, salary, years at the company, job role, and work-life balance.  
+
+## Steps Taken  
+
+1. **Data Cleaning and Preparation**  
+   - Performed data cleaning using Power Query.  
+
+2. **Exploratory Data Analysis**  
+   - Conducted EDA using Power Pivot and DAX measures.  
+
+3. **Correlation Analysis**  
+   - Identified relationships between attrition and factors like:
+     - Distance from home  
+     - Years at the company  
+     - Job satisfaction  
+
+4. **Data Visualization**  
+   - Created interactive and visually appealing dashboards to present the findings and insights.  
+   - Dashboards helped communicate the results to stakeholders and highlighted key factors contributing to employee attrition.  
+
+## Tools Used  
+- Microsoft Excel (Power Query, Power Pivot, DAX)  
+
+---
+
+Feel free to modify or expand this as needed! Let me know if you'd like me to add more sections, like **Future Enhancements** or **How to Reproduce**.
