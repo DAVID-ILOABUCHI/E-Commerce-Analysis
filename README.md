@@ -5,7 +5,7 @@ This project aim to provide actionable insights that will help improve sales, cu
 ## Dashboard
 
 
-![](https://github.com/user-attachments/assets/de8b1059-cceb-437e-a3eb-893662c048df))
+![Dashboard](https://github.com/user-attachments/assets/de8b1059-cceb-437e-a3eb-893662c048df)
 
 
 
