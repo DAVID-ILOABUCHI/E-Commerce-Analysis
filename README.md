@@ -8,8 +8,11 @@ This project aim to provide actionable insights that will help improve sales, cu
 ## Problem Statement
 Analyzing Key Metrics to Drive E-Commerce Growth and Optimize Performance Specifically, the project seeks to answer:
 - Sales Trends Analysis
+  
 - Customer Retention rate
+- 
 - Geographical Performance
+- 
 -Delivery and Sales Relationship
 -Customer Segmentation
 
