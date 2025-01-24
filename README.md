@@ -19,7 +19,8 @@ Analyzing Key Metrics to Drive E-Commerce Growth and Optimize Performance Specif
 
 
 ## Methodology:
-The analysis was conducted using Excel. 
+The analysis was conducted using Excel.
+
 -Data Cleaning and Preparation with Power Query
 
 -Data Visualisation - created interactive and visually appealing dashboards to present the findings and insights. These dashboards made it easier to communicate the results to stakeholders and highlight key factors contributing to Sales.
