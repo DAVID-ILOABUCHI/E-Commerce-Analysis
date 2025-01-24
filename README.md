@@ -49,6 +49,8 @@ The analysis was conducted using Excel.
 - Analyze late delivery reasons to optimize logistics while ensuring customer satisfaction.
 
 - Expand offerings or incentives for Consumer and Home Office segments to reduce dependency on Corporate customers.
+- Create a loyalty program aimed at Home customers, offering points or rewards for repeat purchases. Incentivize their continued engagement with free delivery or early access to sales.
+- Offer exclusive discounts or bundle deals specifically for Home customers. For example, "Buy a desk and get a chair at 20% off" could appeal to individual homeowners.
 
    By implementing these strategies, the organization can optimize sales performance, enhance customer retention, improve delivery efficiency, and unlock growth opportunities in underperforming regions and customer segments, ensuring sustainable business growth.
 
