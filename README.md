@@ -49,3 +49,6 @@ The analysis was conducted using Excel.
 - Analyze late delivery reasons to optimize logistics while ensuring customer satisfaction.
 
 - Expand offerings or incentives for Consumer and Home Office segments to reduce dependency on Corporate customers.
+  By implementing these strategies, the organization can optimize sales performance, enhance customer retention, improve delivery efficiency, and unlock growth opportunities in underperforming regions and customer segments, ensuring sustainable business growth.
+
+
