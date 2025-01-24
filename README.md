@@ -1,10 +1,11 @@
-![Picture2](https://github.com/user-attachments/assets/f148b1ec-f250-4188-b980-ad462549e403)# E-Commerce-Analysis
+# E-Commerce-Analysis
 
 ## Project Overview
 This project aim to provide actionable insights that will help improve sales, customer retention, operational efficiency, analyze historical data, uncover trends, and provide recommendations for strategic improvements.
 ## Dashboard
 
-![Image](
+![Image](![Dashboard](https://github.com/user-attachments/assets/2152bf19-c1af-439a-9384-70a314abd639)
+
 
 
 ## Problem Statement
