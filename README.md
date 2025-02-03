@@ -4,7 +4,8 @@
 This project aim to provide actionable insights that will help improve sales, customer retention, operational efficiency, analyze historical data, uncover trends, and provide recommendations for strategic improvements.
 ## Dashboard
 
-![Image 2](https://github.com/user-attachments/assets/69b40962-8c22-4355-a105-26932819161e)
+![Image 1](https://github.com/user-attachments/assets/4b574634-8ac1-4733-a664-28a0d2a7a0d1)
+
 
 ## Problem Statement
 Analyzing Key Metrics to Drive E-Commerce Growth and Optimize Performance Specifically, the project seeks to answer:
