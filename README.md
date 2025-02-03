@@ -1,12 +1,9 @@
-# E-Commerce-Analysis
+![Image 1](https://github.com/user-attachments/assets/cddb8b8f-9941-4c0d-8913-7ca1688631fa)# E-Commerce-Analysis
 
 ## Project Overview
 This project aim to provide actionable insights that will help improve sales, customer retention, operational efficiency, analyze historical data, uncover trends, and provide recommendations for strategic improvements.
 ## Dashboard
-
-[image](![Image 1](https://github.com/user-attachments/assets/ddf38917-3a12-43d3-8d27-7793132edaca)
-
-
+[image](![Image 1](https://github.com/user-attachments/assets/3b0b7f9b-7b2d-42f0-bfc4-8be840620c45)
 
 ## Problem Statement
 Analyzing Key Metrics to Drive E-Commerce Growth and Optimize Performance Specifically, the project seeks to answer:
